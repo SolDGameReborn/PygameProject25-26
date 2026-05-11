@@ -1,2 +1,2 @@
 # PygameProject25-26
-Game using python
+Monster survival game made with Brandon C
